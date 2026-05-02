@@ -1,1 +1,1 @@
-# CollabBoard
+#SyncBoard
